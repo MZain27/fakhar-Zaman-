@@ -1,0 +1,30 @@
+Venue,Ground Name,Pitch,Weather,Pos,Inning,Opposition,Avg Score in last Five matches,Fours in last Five matches,Six in last Five matches,Score in last Five matches,Score Label
+Hyderabad,Visaka International Cricket Stadium Ground,Flat pitch,mostly sunny,First,Bat First,v Netherlands,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Colombo (RPS),R.Premadasa Stadium,Green pitch,mostly sunny,Second,Bat First,v Sri Lanka,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Colombo (RPS),R.Premadasa Stadium,flat and dry,mostly sunny,First,Ball First,v India,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Lahore,Gaddafi Stadium,Green pitch,mostly sunny,First,Ball First,v Bangladesh,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Multan,Multan Cricket Stadium,flat and dry,bright and sunny,First,Bat First,v Nepal,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Colombo (RPS),R.Premadasa Stadium,Green pitch,partly cloudy,First,Bat First,v Afghanistan,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Hambantota,Mahinda Rajapaksa International Cricket Stadium,flat and dry,bright and sunny,First,Ball First,v Afghanistan,Good Avg Score,Intermediate Fours,Intermediate Sixes,Intermediate Score,Low
+Hambantota,Mahinda Rajapaksa International Cricket Stadium,Green pitch,Cloudy,First,Bat First,v Afghanistan,Good Avg Score,Max Fours,Intermediate Sixes,Intermediate Score,Low
+Karachi,National Stadium,flat and dry,mostly sunny,First,Ball First,v New Zealand,Good Avg Score,Max Fours,Intermediate Sixes,Max Score,Low
+Karachi,National Stadium,flat and dry,mostly sunny,First,Bat First,v New Zealand,Good Avg Score,Max Fours,Intermediate Sixes,Max Score,Low
+Karachi,National Stadium,Flat pitch, sunny,First,Bat First,v New Zealand,Best Avg Score,Max Fours,Intermediate Sixes,Max Score,Low
+Rawalpindi,Rawalpindi Cricket Stadium,Green pitch,Clear,First,Ball First,v New Zealand,Good Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,High
+Rawalpindi,Rawalpindi Cricket Stadium,Green pitch, sunny,First,Ball First,v New Zealand,Poor Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,Moderate
+Karachi,National Stadium,Flat pitch,mostly sunny,First,Bat First,v New Zealand,Good Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,Moderate
+Karachi,National Stadium,flat and dry,bright and sunny,First,Ball First,v New Zealand,Poor Avg Score,Intermediate Fours,Min Sixes,Min Score,Low
+Karachi,National Stadium,Flat pitch,Clear,First,Ball First,v New Zealand,Poor Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,Low
+Rotterdam,Hazelaarweg,Green pitch,Cloudy,Second,Bat First,v Netherlands,Poor Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,Low
+Rotterdam,Hazelaarweg,Flat pitch,mostly sunny,First,Ball First,v Netherlands,Good Avg Score,Intermediate Fours,Min Sixes,Intermediate Score,Low
+Rotterdam,Hazelaarweg,Flat pitch,mostly sunny,First,Bat First,v Netherlands,Poor Avg Score,Min Fours,Min Sixes,Min Score,Moderate
+Multan,Multan Cricket Stadium,flat and dry,mostly sunny,First,Bat First,v West Indies,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Multan,Multan Cricket Stadium,Green pitch,Clear,First,Bat First,v West Indies,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Multan,Multan Cricket Stadium,flat and dry,mostly sunny,First,Ball First,v West Indies,Poor Avg Score,Min Fours,Min Sixes,Min Score,Low
+Lahore,Gaddafi StadiumLahore,flat and dry,bright and sunny,First,Ball First,v Australia,Poor Avg Score,Intermediate Fours,Intermediate Sixes,Min Score,Low
+Lahore,Gaddafi StadiumLahore,Flat pitch,Clear,First,Ball First,v Australia,Poor Avg Score,Intermediate Fours,Max Sixes,Min Score,Moderate
+Lahore,Gaddafi StadiumLahore,Green pitch,mostly sunny,First,Ball First,v Australia,Good Avg Score,Intermediate Fours,Max Sixes,Intermediate Score,Low
+Birmingham,Edgbaston,Green pitch,partly cloudy,Second,Bat First,v England,Poor Avg Score,Intermediate Fours,Max Sixes,Intermediate Score,Low
+Cardiff,Sophia Gardens,flat and dry,Clear,Second,Bat First,v England,Good Avg Score,Intermediate Fours,Max Sixes,Intermediate Score,Low
+Centurion,SuperSport Park,Green pitch,mostly sunny,Second,Bat First,v South Africa,Good Avg Score,Min Fours,Max Sixes,Intermediate Score,Moderate
+Johannesburg,The Wanderers Stadium,Flat pitch,partly cloudy,Second,Ball First,v South Africa,Poor Avg Score,Min Fours,Min Sixes,Min Score,High
